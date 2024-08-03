@@ -1,0 +1,42 @@
+-- Final Year Project Database Code
+
+CREATE DATABASE FYP;
+
+CREATE TABLE task
+(taskID smallserial primary key,
+taskTitle varchar(50) not null,
+taskDescription text not null);
+
+CREATE TABLE subTask
+(subTaskID smallserial primary key,
+subTask_Title varchar(50) not null,
+subTask_Description text not null);
+
+CREATE TABLE staff
+(staffID smallserial primary key,
+staff_Fname varchar(30) not null,
+staff_Lname varchar(30) not null,
+neurodivergent boolean not null,
+differences text null);
+
+CREATE TABLE role
+(roleID smallserial primary key,
+roleName varchar(50) not null);
+
+CREATE TABLE taskSubTask
+(taskID int references task(taskID),
+subTaskID int references subTask(subTaskID));
+
+CREATE TABLE staffSubTask
+(staffID int references staff(staffID),
+taskID int references task(taskID),
+subTaskID int references subTask(subTaskID),
+primary key (staffID, taskID, subTaskID),
+completed boolean not null,
+timeStarted timestamp not null,
+timeFinished timestamp null,
+priority int not null);
+
+CREATE TABLE staffRole
+(staffID int references staff(staffID),
+roleID int references role(roleID));

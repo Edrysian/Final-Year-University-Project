@@ -1,0 +1,10 @@
+insert into staffRole (staffID, roleID) values (1, 5);
+insert into staffRole (staffID, roleID) values (2, 7);
+insert into staffRole (staffID, roleID) values (3, 7);
+insert into staffRole (staffID, roleID) values (4, 2);
+insert into staffRole (staffID, roleID) values (5, 2);
+insert into staffRole (staffID, roleID) values (6, 2);
+insert into staffRole (staffID, roleID) values (7, 7);
+insert into staffRole (staffID, roleID) values (8, 9);
+insert into staffRole (staffID, roleID) values (9, 5);
+insert into staffRole (staffID, roleID) values (10, 2);

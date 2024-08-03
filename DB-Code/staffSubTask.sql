@@ -1,0 +1,10 @@
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (1, 2, 6, false, '2023-06-21 14:57:57', null, 1);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (2, 5, 25, true, '2023-06-21 13:51:33', '2023-06-21 20:21:30', 1);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (3, 9, 43, false, '2023-06-19 18:29:40', null, 3);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (4, 4, 19, false, '2023-06-21 20:07:44', null, 4);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (5, 4, 20, true, '2023-06-19 08:38:58', '2023-06-19 11:12:13', 2);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (6, 9, 45, true, '2023-06-21 13:42:58', '2023-06-21 15:14:26', 3);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (7, 6, 30, true, '2023-06-20 13:39:18', '2023-06-20 16:58:58', 2);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (8, 7, 32, false, '2023-06-20 08:20:11', null, 2);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (9, 3, 15, true, '2023-06-21 23:15:39', '2023-06-22 01:35:54', 1);
+insert into staffSubTask (staffID, taskID, subTaskID, completed, timeStarted, timeFinished, priority) values (10, 9, 42, false, '2023-06-20 03:53:47', null, 1);

@@ -1,0 +1,10 @@
+insert into role (roleID, roleName) values (1, 'Social Worker');
+insert into role (roleID, roleName) values (2, 'Human Resources Manager');
+insert into role (roleID, roleName) values (3, 'Paralegal');
+insert into role (roleID, roleName) values (4, 'Dental Hygienist');
+insert into role (roleID, roleName) values (5, 'Senior Cost Accountant');
+insert into role (roleID, roleName) values (6, 'Editor');
+insert into role (roleID, roleName) values (7, 'Quality Engineer');
+insert into role (roleID, roleName) values (8, 'Food Chemist');
+insert into role (roleID, roleName) values (9, 'VP Sales');
+insert into role (roleID, roleName) values (10, 'Financial Advisor');

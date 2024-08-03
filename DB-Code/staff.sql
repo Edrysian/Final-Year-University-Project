@@ -1,0 +1,10 @@
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (1, 'Vergil', 'Willford', false, null);
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (2, 'Adella', 'Keirle', true, 'Nam dui.');
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (3, 'Roanna', 'Dorow', true, 'Donec dapibus. Duis at velit eu est congue elementum.');
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (4, 'Jordain', 'Ewles', true, 'Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (5, 'April', 'Colwell', true, 'Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (6, 'Rufus', 'Solway', false, null);
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (7, 'Row', 'Vasiltsov', true, 'Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (8, 'Xymenes', 'Bellham', true, 'Aliquam sit amet diam in magna bibendum imperdiet.');
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (9, 'Loria', 'Loader', false, null);
+insert into staff (staffID, staff_Fname, staff_Lname, neurodivergent, differences) values (10, 'Onfroi', 'Robun', true, 'Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.');

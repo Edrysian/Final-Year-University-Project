@@ -1,0 +1,10 @@
+insert into task (taskID, taskTitle, taskDescription) values (1, 'Prepare presentation', 'in congue etiam justo etiam pretium iaculis justo in hac');
+insert into task (taskID, taskTitle, taskDescription) values (2, 'Review documents', 'nunc nisl duis bibendum felis sed interdum venenatis turpis enim');
+insert into task (taskID, taskTitle, taskDescription) values (3, 'Attend meeting', 'sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus');
+insert into task (taskID, taskTitle, taskDescription) values (4, 'Create project plan', 'sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus');
+insert into task (taskID, taskTitle, taskDescription) values (5, 'Conduct research', 'ac diam cras pellentesque volutpat dui maecenas tristique est et');
+insert into task (taskID, taskTitle, taskDescription) values (6, 'Write report', 'nulla suscipit ligula in lacus curabitur at ipsum ac tellus');
+insert into task (taskID, taskTitle, taskDescription) values (7, 'Organize files', 'justo sollicitudin ut suscipit a feugiat et eros vestibulum ac');
+insert into task (taskID, taskTitle, taskDescription) values (8, 'Collaborate with team', 'orci luctus et ultrices posuere cubilia curae nulla dapibus dolor');
+insert into task (taskID, taskTitle, taskDescription) values (9, 'Analyze data', 'vel lectus in quam fringilla rhoncus mauris enim leo rhoncus');
+insert into task (taskID, taskTitle, taskDescription) values (10, 'Schedule appointments', 'nec nisi volutpat eleifend donec ut dolor morbi vel lectus');
